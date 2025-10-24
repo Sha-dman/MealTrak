@@ -1,3 +1,4 @@
+DEPLOYED WITH VERCEL: https://meal-trak-jyg4-236j9p9q8-sha-dmans-projects.vercel.app/
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
