@@ -74,10 +74,10 @@ export default function Subscribe() {
     })
 
   function handleSubscribe(planType:string){
-    if (!userId){
-      router.push("/sign-up")
-      return
-    }
+ //   if (!userId){
+   //   router.push("/sign-up")
+   //   return
+  //  }
 
     mutate({planType})
   }
